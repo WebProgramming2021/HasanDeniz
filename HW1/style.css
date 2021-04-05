@@ -1,0 +1,25 @@
+box{
+    background: white;
+    display: block;
+    margin: 0 auto;
+    box-shadow: 0 0 0.5cm rgba(0, 0, 0, 5);
+}
+box[size = "A4"]{
+    max-width: 21cm;
+    width: 90vw;
+    height: 29.7cm;
+    margin: 5vw auto;
+}
+
+.info{
+    padding-left: 15vw;
+    
+}
+
+.resume{
+    padding-left: 1.5vw;
+}
+
+h1{
+    color: #4472C4;
+}
